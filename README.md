@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Mohammad's  👨‍💻  Github Stats</h2>
+<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> 👨‍💻  Github Stats</h2>
 </div>
   
 <br />
