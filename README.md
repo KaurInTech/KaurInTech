@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-  <h2 align="center">Langauges and Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+  <h2 align="center">Langauges and Technologies</h2>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
