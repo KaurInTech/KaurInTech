@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-   <h1>Hi there, I'm <a href="">Sandeep Kaur👋</h1>
+   <h1>Hi there, I'm <a href="https://kaurintech.com">Sandeep Kaur👋</h1>
 </div>
 
 <h4 align="center">
