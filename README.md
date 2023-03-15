@@ -61,6 +61,7 @@ Here are some ideas to get you started:
    <a href="https://github.com/KaurInTech/Covid-19-Tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaurInTech&repo=Covid-19-Tracker&theme=radical" /></a>
    <a href="https://github.com/KaurInTech/Smile-Detection-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaurInTech&repo=Smile-Detection-App&theme=radical" /></a>  
 </div>
+<br/>
 
 
 
