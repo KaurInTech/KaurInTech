@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h4 align="center">
- As a passionate programmer and full-stack developer student, I am committed to continually improving my skills and staying up-to-date with the latest technologies. I have a strong foundation in programming fundamentals and enjoy working on challenging projects that require creative problem-solving skills.
+ As a passionate programmer and full-stack developer student, I am committed to continually improving my skills and staying up-to-date with the latest technologies. I have a strong foundation in programming fundamentals and enjoy working on challenging projects that requires creative problem-solving skills.
 </h4>
  
 <br/>
